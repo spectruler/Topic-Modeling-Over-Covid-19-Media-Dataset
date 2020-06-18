@@ -5,7 +5,7 @@ Topic Modeling is unsupervised technique in which hidden topics are discovered a
 Covid-19 Media Dataset is hosted on kaggle platform, you can visit [here to download or view dataset](https://www.kaggle.com/jannalipenkova/covid19-public-media-dataset/)
 The media content has been scraped from various sites, and is related to Covid-19.
 
-# Requirement 
+# Requirements 
 ```python
 python=3.7
 numpy 
@@ -17,5 +17,5 @@ tqdm
 sklearn
 random
 ```
-# View On Kaggle 
-This notebook is also shared on kaggle. Visit [here](https://www.kaggle.com/jaipaldeora/covid-19-media-topic-modeling/notebook)
+# Visit Kaggle 
+This notebook is also shared over kaggle. Visit [here](https://www.kaggle.com/jaipaldeora/covid-19-media-topic-modeling/notebook)
